@@ -1,0 +1,15 @@
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\bin\Debug\net7.0\DateTime4.exe
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\bin\Debug\net7.0\DateTime4.deps.json
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\bin\Debug\net7.0\DateTime4.runtimeconfig.json
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\bin\Debug\net7.0\DateTime4.dll
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\bin\Debug\net7.0\DateTime4.pdb
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.csproj.AssemblyReference.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.AssemblyInfoInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.AssemblyInfo.cs
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.csproj.CoreCompileInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.dll
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\refint\DateTime4.dll
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.pdb
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\DateTime4.genruntimeconfig.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime4\obj\Debug\net7.0\ref\DateTime4.dll

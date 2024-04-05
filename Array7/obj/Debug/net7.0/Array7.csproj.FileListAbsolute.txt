@@ -1,0 +1,15 @@
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.csproj.AssemblyReference.cache
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.AssemblyInfoInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.AssemblyInfo.cs
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.csproj.CoreCompileInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\Array7\bin\Debug\net7.0\Array7.exe
+C:\Users\PerumalKrishnan\PracticeCode\Array7\bin\Debug\net7.0\Array7.deps.json
+C:\Users\PerumalKrishnan\PracticeCode\Array7\bin\Debug\net7.0\Array7.runtimeconfig.json
+C:\Users\PerumalKrishnan\PracticeCode\Array7\bin\Debug\net7.0\Array7.dll
+C:\Users\PerumalKrishnan\PracticeCode\Array7\bin\Debug\net7.0\Array7.pdb
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.dll
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\refint\Array7.dll
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.pdb
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\Array7.genruntimeconfig.cache
+C:\Users\PerumalKrishnan\PracticeCode\Array7\obj\Debug\net7.0\ref\Array7.dll

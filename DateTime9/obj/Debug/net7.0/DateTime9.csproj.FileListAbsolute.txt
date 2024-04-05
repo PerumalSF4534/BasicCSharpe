@@ -1,0 +1,15 @@
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\bin\Debug\net7.0\DateTime9.exe
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\bin\Debug\net7.0\DateTime9.deps.json
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\bin\Debug\net7.0\DateTime9.runtimeconfig.json
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\bin\Debug\net7.0\DateTime9.dll
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\bin\Debug\net7.0\DateTime9.pdb
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.csproj.AssemblyReference.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.AssemblyInfoInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.AssemblyInfo.cs
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.csproj.CoreCompileInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.dll
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\refint\DateTime9.dll
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.pdb
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\DateTime9.genruntimeconfig.cache
+C:\Users\PerumalKrishnan\PracticeCode\DateTime9\obj\Debug\net7.0\ref\DateTime9.dll
