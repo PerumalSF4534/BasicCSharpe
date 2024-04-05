@@ -1,0 +1,15 @@
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\bin\Debug\net7.0\AssismentTest2.exe
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\bin\Debug\net7.0\AssismentTest2.deps.json
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\bin\Debug\net7.0\AssismentTest2.runtimeconfig.json
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\bin\Debug\net7.0\AssismentTest2.dll
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\bin\Debug\net7.0\AssismentTest2.pdb
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.csproj.AssemblyReference.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.AssemblyInfoInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.AssemblyInfo.cs
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.csproj.CoreCompileInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.dll
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\refint\AssismentTest2.dll
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.pdb
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\AssismentTest2.genruntimeconfig.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest2\obj\Debug\net7.0\ref\AssismentTest2.dll

@@ -1,0 +1,15 @@
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\bin\Debug\net7.0\AssismentTest1.exe
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\bin\Debug\net7.0\AssismentTest1.deps.json
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\bin\Debug\net7.0\AssismentTest1.runtimeconfig.json
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\bin\Debug\net7.0\AssismentTest1.dll
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\bin\Debug\net7.0\AssismentTest1.pdb
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.csproj.AssemblyReference.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.AssemblyInfoInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.AssemblyInfo.cs
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.csproj.CoreCompileInputs.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.dll
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\refint\AssismentTest1.dll
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.pdb
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\AssismentTest1.genruntimeconfig.cache
+C:\Users\PerumalKrishnan\PracticeCode\AssismentTest1\obj\Debug\net7.0\ref\AssismentTest1.dll
